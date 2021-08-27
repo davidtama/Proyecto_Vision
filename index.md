@@ -3,7 +3,7 @@
 <!-- include this in your HTML file -->
 <script src="https://cdn.jsdelivr.net/npm/@runwayml/hosted-models@latest/dist/hosted-models.js"></script>
 
-###  Uso
+# Uso
 const model = new rw.HostedModel({
   url: "https://proyecto-vision.hosted-models.runwayml.cloud/v1/",
 });
